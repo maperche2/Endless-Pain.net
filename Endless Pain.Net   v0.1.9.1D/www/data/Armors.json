@@ -69,5 +69,6 @@ null,
 {"id":67,"atypeId":1,"description":"This ring brings luck to any fisherman who is dedicated<br>to his craft.Increases reeling power.","etypeId":2,"traits":[],"iconIndex":183,"name":"Lucky Fisher Ring II","note":"","params":[0,0,0,0,0,0,0,2],"price":200},
 {"id":68,"atypeId":1,"description":"This ring brings luck to any fisherman who is dedicated<br>to his craft.Increases reeling power.","etypeId":2,"traits":[],"iconIndex":183,"name":"Lucky Fisher Ring III","note":"","params":[0,0,0,0,0,0,0,2],"price":250},
 {"id":69,"atypeId":1,"description":"This ring brings luck to any fisherman who is dedicated<br>to his craft.Increases reeling power.","etypeId":2,"traits":[],"iconIndex":183,"name":"Lucky Fisher Ring IV","note":"","params":[0,0,0,0,0,0,0,2],"price":300},
-{"id":70,"atypeId":1,"description":"This ring brings luck to any fisherman who is dedicated<br>to his craft.Increases reeling power.","etypeId":2,"traits":[],"iconIndex":183,"name":"Lucky Fisher Ring V","note":"","params":[0,0,0,0,0,0,0,2],"price":350}
+{"id":70,"atypeId":1,"description":"This ring brings luck to any fisherman who is dedicated<br>to his craft.Increases reeling power.","etypeId":2,"traits":[],"iconIndex":183,"name":"Lucky Fisher Ring V","note":"","params":[0,0,0,0,0,0,0,2],"price":350},
+{"id":71,"atypeId":1,"description":"+1 Extra action every turn<br>-20 Max HP","etypeId":2,"traits":[{"code":61,"dataId":0,"value":1}],"iconIndex":201,"name":"Ring of Beast Eye","note":"","params":[-20,0,0,0,0,0,0,0],"price":350}
 ]
