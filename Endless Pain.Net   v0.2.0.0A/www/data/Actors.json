@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":3,"characterName":"Genericissimi","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"enemy face","traits":[{"code":52,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Sheep","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"enemy face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kevin The First","nickname":"Skeleton I","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"enemy face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jude The Second","nickname":"Skeleton II","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"enemy face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Steve The Third","nickname":"Skeleton III","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Cavaliero","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thunder Cloud","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"e","traits":[],"initialLevel":1,"maxLevel":99,"name":"Imp","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"DENEMY","traits":[],"initialLevel":1,"maxLevel":99,"name":"GOLEM","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":8,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"e","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helpful Pixie","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":9,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"e","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tom","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":10,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"e","traits":[],"initialLevel":1,"maxLevel":99,"name":"Meteor Caller","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":11,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"DENEMY","traits":[],"initialLevel":1,"maxLevel":99,"name":"Test Heister","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":3,"characterName":"","classId":12,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"e","traits":[],"initialLevel":1,"maxLevel":99,"name":"Farfolo","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":13,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"D","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bluegô","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":15,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"D","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pierson","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"IMPUT SCRITTI","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"","classId":16,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rocinante","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":17,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"momento","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jamiroquai","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"SkillnameAAAAAAAA","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"SkillnameBBBBBBBB","nickname":"","note":"","profile":""}
+]
